@@ -18,6 +18,14 @@
   },
   "homepage": "https://github.com/mazhy/trailer#readme",
   "dependencies": {
-    "koa": "^2.6.2"
+    "ejs": "^2.6.1",
+    "koa": "^2.6.2",
+    "koa-views": "^6.1.4",
+    "nanoid": "^2.0.0",
+    "pug": "^2.0.3",
+    "puppeteer": "^1.10.0",
+    "qiniu": "^7.2.1",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.5"
   }
 }
