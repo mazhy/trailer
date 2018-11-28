@@ -1,0 +1,23 @@
+{
+  "name": "trailer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sever/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mazhy/trailer.git"
+  },
+  "author": "mazy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mazhy/trailer/issues"
+  },
+  "homepage": "https://github.com/mazhy/trailer#readme",
+  "dependencies": {
+    "koa": "^2.6.2"
+  }
+}
